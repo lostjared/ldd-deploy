@@ -1,5 +1,7 @@
 # ldd-deploy for MSYS2 Mingw64
 
+![image](https://github.com/user-attachments/assets/39176b37-1a6e-4bf2-af1c-e3aeaffdb4bf)
+
 `ldd-deploy` is a simple Bash script designed to help package dynamically linked libraries (DLLs) and shared object dependencies required by an executable. The script uses `ldd` to identify all linked libraries and then copies each one to a specified output directory, making it easier to deploy or distribute applications with all necessary dependencies.
 
 ## Features
