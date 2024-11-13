@@ -32,3 +32,4 @@ In this example, all dependencies required by `myapp` will be copied into the `d
 ## Notes
 - Ensure you have the necessary permissions to read the executable's dependencies and write to the output directory.
 - This script is especially useful when packaging applications for distribution or deployment on systems that may not have all required libraries pre-installed.
+- Contains implementations in Rust, C++, and Bash.
